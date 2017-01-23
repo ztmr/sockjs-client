@@ -20,12 +20,12 @@ browsers:
   - name: microsoftedge
     version: latest
   - name: opera
-    version: 11..latest
+    version: latest
   - name: safari
-    version: 5..latest
+    version: latest
   - name: ie
-    version: 6..latest
+    version: latest
   - name: iphone
-    version: 8.1..latest
+    version: latest
   - name: android
-    version: 4.1..latest
+    version: latest
